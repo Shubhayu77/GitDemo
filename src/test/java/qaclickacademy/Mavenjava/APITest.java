@@ -7,6 +7,8 @@ public class APITest {
 	public void nativeMblAutomation()
 	{
 		System.out.println("Native Mbl Automation");
+		System.out.println("Native Mbl Automation2");
+		System.out.println("Native Mbl Automation3");
 	}
 	@Test
 	public void iosAutomation()
